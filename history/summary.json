@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 535,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "time": 495,
+    "timeDay": 519,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -22,6 +22,26 @@
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-21": 46
+    }
+  },
+  {
+    "name": "Test Broken Site 1",
+    "url": "https://thissitedoesnotexistnotonlyoness.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexistnotonlyoness.koj.co.ico",
+    "slug": "test-broken-site-1",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
