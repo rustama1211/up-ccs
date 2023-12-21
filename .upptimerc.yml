@@ -6,24 +6,6 @@ sites:
   - name: CCS
     url: https://ccs.mitsubishimotorsid-mobileapp.com/v1/health
     maxResponseTime: 5000
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Test Broken Site 1
-    url: https://thissitedoesnotexistnotonlyoness.koj.co
-  - name: Test Broken Site 2
-    url: https://thissitedoesnotexistnotonlyonesson.koj.co
-  - name: Test Broken Site 3
-    url: https://thissitedoesnotexistnotonlyonessonenn.koj.co
-  - name: Test Broken Site 4
-    url: https://thissitedoesnotexistnotonlyonessonendddn.koj.co
-  - name: Test Broken Site 5
-    url: https://thissitedoesnotexistnotonlyonessonendsssddn.koj.co
-  - name: Test Broken Site 6
-    url: https://thissitedoesnotexistnotonlyonessonendsssddsssddn.koj.co
-  - name: Test Broken Site 7
-    url: https://thissitedoesnotexistnotonlyonessonendsssddsdddddssddn.koj.co
-  - name: Test Broken Site 8
-    url: https://thissitedoesnotexistnotonlyonessonendsssddsdddddssdfgfgdn.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
