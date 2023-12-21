@@ -22,6 +22,8 @@ sites:
     url: https://thissitedoesnotexistnotonlyonessonendsssddsssddn.koj.co
   - name: Test Broken Site 7
     url: https://thissitedoesnotexistnotonlyonessonendsssddsdddddssddn.koj.co
+  - name: Test Broken Site 8
+    url: https://thissitedoesnotexistnotonlyonessonendsssddsdddddssdfgfgdn.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
