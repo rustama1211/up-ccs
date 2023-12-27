@@ -34,13 +34,33 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-27": 30,
+      "2023-12-27": 405,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 282
+    }
+  },
+  {
+    "name": "Test Broken Site 1",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site-1",
+    "status": "down",
+    "uptime": "17.27%",
+    "uptimeDay": "17.27%",
+    "uptimeWeek": "17.27%",
+    "uptimeMonth": "17.27%",
+    "uptimeYear": "17.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-27": 0
     }
   }
 ]
