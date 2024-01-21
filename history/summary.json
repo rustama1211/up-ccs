@@ -4,19 +4,19 @@
     "url": "https://ccs.mitsubishimotorsid-mobileapp.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/ccs.mitsubishimotorsid-mobileapp.com.ico",
     "slug": "ccs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 548,
-    "timeWeek": 608,
-    "timeMonth": 583,
-    "timeYear": 574,
+    "time": 576,
+    "timeDay": 613,
+    "timeWeek": 617,
+    "timeMonth": 585,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-01-21": 0
+      "2024-01-21": 1
     }
   }
 ]
