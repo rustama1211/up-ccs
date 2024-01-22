@@ -6,8 +6,8 @@
     "slug": "ccs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -16,7 +16,7 @@
     "timeMonth": 584,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-01-22": 0
+      "2024-01-22": 1
     }
   }
 ]
