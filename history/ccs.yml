@@ -1,7 +1,7 @@
 url: https://ccs.mitsubishimotorsid-mobileapp.com/v1/health
-status: down
-code: 404
-responseTime: 642
-lastUpdated: 2024-04-26T11:50:10.889Z
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2024-04-26T11:52:10.186Z
 startTime: 2023-12-18T13:01:17.854Z
 generator: Upptime <https://github.com/upptime/upptime>
