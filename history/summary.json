@@ -6,17 +6,15 @@
     "slug": "ccs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 613,
-    "timeWeek": 574,
-    "timeMonth": 566,
-    "timeYear": 696,
-    "dailyMinutesDown": {
-      "2024-04-26": 2
-    }
+    "time": 695,
+    "timeDay": 588,
+    "timeWeek": 575,
+    "timeMonth": 562,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   }
 ]
